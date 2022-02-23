@@ -6,7 +6,7 @@ I'm a curious computer scientist always trying to learn new stuff.
 - 🌱 I’m currently learning Laravel, Livewire, AlpineJS, Bulma
 - 💬 Ask me about Developer Relations and/or Developer Marketing
 - 📫 How to reach me: [My Website](https://alco.rocks)
-- ⚡ Fun fact: I'm an instrumental guitarist and an amateur close-up card magician
+- ⚡ Fun fact: I'm an [instrumental guitarist](https://alco.ws/spotify) and an amateur close-up card magician
 
 
 <!--
