@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a curious computer scientist always trying to learn new stuff.
+
+- 🔭 I’m currently working on [Add2Calendar.co](https://add2calendar.co), and a contact manager I call AlContacts
+- 🌱 I’m currently learning Laravel, Livewire, AlpineJS, Bulma
+- 💬 Ask me about Developer Relations and/or Developer Marketing
+- 📫 How to reach me: [My Website](https://alco.rocks)
+- ⚡ Fun fact: I'm an instrumental guitarist and an amateur close-up card magician
+
+
 <!--
 **ricardoalcocer/ricardoalcocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
