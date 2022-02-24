@@ -8,6 +8,7 @@ I'm a curious computer scientist always trying to learn new stuff.
 - 📫 How to reach me: [My Website](https://alco.rocks)
 - ⚡ Fun fact: I'm an [instrumental guitarist](https://alco.ws/spotify) and an amateur close-up card magician
 
+> Feel free to browse around.  Excuse the mess..I'm still learning 🙂
 
 <!--
 **ricardoalcocer/ricardoalcocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
