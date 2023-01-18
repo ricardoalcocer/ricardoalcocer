@@ -3,7 +3,7 @@
 I'm a curious computer scientist always trying to learn new stuff.
 
 - 🔭 I’m currently working on [Add2Calendar.co](https://add2calendar.co), and a contact manager I call AlContacts
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/),[Rust](https://www.rust-lang.org/), [Laravel](https://github.com/laravel), [Livewire](https://github.com/livewire), [AlpineJS](https://github.com/alpinejs), [Bulma](https://github.com/jgthms/bulma)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/), [Rust](https://www.rust-lang.org/), [Laravel](https://github.com/laravel), [Livewire](https://github.com/livewire), [AlpineJS](https://github.com/alpinejs), [Bulma](https://github.com/jgthms/bulma)
 - 💬 Ask me about Developer Relations and/or Developer Marketing
 - 📫 How to reach me: [My Website](https://alco.rocks)
 - ⚡ Fun fact: I'm an [instrumental guitarist](https://alco.ws/spotify) and an [amateur close-up card magician](https://ricardoalcocer.gumroad.com/l/aqRpD)
