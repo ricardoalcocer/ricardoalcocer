@@ -10,9 +10,6 @@ I'm a curious computer scientist always trying to learn new stuff.
 
 > Feel free to browse around.  Excuse the mess..I'm still learning! 🙂
 
-![Alco's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoalcocer)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoalcocer&layout=compact)
 
 
 <!--
