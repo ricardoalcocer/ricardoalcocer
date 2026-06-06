@@ -1,28 +1,16 @@
 ### Hi there 👋
 
-I'm a curious computer scientist always trying to learn new stuff.
+I'm Ricardo (Alco) Alcocer — a computer scientist, developer advocate, builder, guitarist, and lifelong learner from Puerto Rico, currently based in Mexico City.
 
-- 🔭 I’m currently working on [Add2Calendar.co](https://add2calendar.co), and a contact manager I call AlContacts
-- 🌱 I’m currently learning [Ruby on Rails](https://rubyonrails.org),  [Angular](https://angular.io/), [Flutter](https://flutter.dev/), [Rust](https://www.rust-lang.org/), [Laravel](https://github.com/laravel), [Livewire](https://github.com/livewire), [AlpineJS](https://github.com/alpinejs), [Bulma](https://github.com/jgthms/bulma)
-- 💬 Ask me about Developer Relations and/or Developer Marketing
-- 📫 How to reach me: [My Website](https://alco.rocks)
-- ⚡ Fun fact: I'm an [instrumental guitarist](https://alco.ws/spotify) and an [amateur close-up card magician](https://ricardoalcocer.gumroad.com/l/aqRpD)
+I enjoy building things at the intersection of technology, creativity, and curiosity.
 
-> Feel free to browse around.  Excuse the mess..I'm still learning! 🙂
+- 🎸 Currently building original instrumental music and composition projects
+- ✍️ Writing essays and long-form reflections at [alco.rocks](https://alco.rocks)
+- 🤖 Experimenting with open-source AI-assisted creative and developer tools
+- 🌱 Currently exploring [Ruby on Rails](https://rubyonrails.org), [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), [Laravel](https://github.com/laravel), [Livewire](https://github.com/livewire), [AlpineJS](https://github.com/alpinejs), and [Bulma](https://github.com/jgthms/bulma)
+- 💬 Ask me about Developer Relations, Developer Marketing, technical education, and community building
+- 📫 How to reach me: [alco.rocks](https://alco.rocks)
+- ⚡ Fun fact: I'm an [instrumental guitarist](https://alco.ws/spotify) and an amateur close-up card magician
 
-
-
-<!--
-**ricardoalcocer/ricardoalcocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Still learning. Still experimenting.  
+> Feel free to browse around.
