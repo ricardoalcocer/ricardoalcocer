@@ -1,16 +1,56 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Ricardo (Alco) Alcocer — a computer scientist, developer advocate, builder, guitarist, and lifelong learner from Puerto Rico, currently based in Mexico City.
+I'm **Ricardo "Alco" Alcocer** — a computer scientist, software engineer, former Developer Relations leader, writer, guitarist, and lifelong builder from **Puerto Rico**, currently living in **Mexico City**.
 
-I enjoy building things at the intersection of technology, creativity, and curiosity.
+I've been writing software professionally since **1996** and still wake up excited to learn something new.
 
-- 🎸 Currently building original instrumental music and composition projects
-- ✍️ Writing essays and long-form reflections at [alco.rocks](https://alco.rocks)
-- 🤖 Experimenting with open-source AI-assisted creative and developer tools
-- 🌱 Currently exploring [Ruby on Rails](https://rubyonrails.org), [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), [Laravel](https://github.com/laravel), [Livewire](https://github.com/livewire), [AlpineJS](https://github.com/alpinejs), and [Bulma](https://github.com/jgthms/bulma)
-- 💬 Ask me about Developer Relations, Developer Marketing, technical education, and community building
-- 📫 How to reach me: [alco.rocks](https://alco.rocks)
-- ⚡ Fun fact: I'm an [instrumental guitarist](https://alco.ws/spotify) and an amateur close-up card magician
+Most of the repositories you'll find here started as questions:
 
-> Still learning. Still experimenting.  
-> Feel free to browse around.
+- *What if...*
+- *Could this be simpler?*
+- *Can AI help build better developer tools?*
+- *How far can I push this idea over a weekend?*
+
+Some become useful projects. Others remain experiments. Both are worth building.
+
+### Current interests
+
+- 🤖 AI-assisted software development and developer tooling
+- 🧠 Human-computer interaction and creative workflows
+- 🛠️ Building small utilities that solve real problems
+- 🌐 Web applications with Rails, Laravel, and modern frontend tooling
+- 🦀 Learning Rust whenever my brain allows it
+- ✍️ Writing essays about technology, history, science, and curiosity at **https://alco.rocks**
+- 🎸 Composing and recording original instrumental guitar music
+
+### Background
+
+Over the past three decades I've worked as:
+
+- Software Engineer
+- Technical Trainer
+- Author
+- Speaker
+- Developer Advocate
+- Director of Developer Relations
+- Engineering Lead
+
+I've helped build developer communities, taught thousands of developers, spoken at conferences around the world, and somehow still spend my evenings making side projects.
+
+### Ask me about
+
+- Developer Relations
+- Technical education
+- Community building
+- AI developer workflows
+- API design
+- Software architecture
+- Technical writing
+
+### Elsewhere
+
+- 🌐 https://alco.rocks
+
+---
+
+> Build things. Learn something. Share what you discover.
