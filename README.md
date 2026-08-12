@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Ricardo "Alco" Alcocer** — a computer scientist, software engineer, former Developer Relations leader, writer, guitarist, and lifelong builder from **Puerto Rico**, currently living in **Mexico City**.
+I'm **Ricardo "Alco" Alcocer** — a computer scientist, software engineer, former Developer Relations leader, writer, guitarist, and lifelong builder from **Puerto Rico**.
 
 I've been writing software professionally since **1996** and still wake up excited to learn something new.
 
